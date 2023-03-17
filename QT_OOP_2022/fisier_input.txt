@@ -1,0 +1,11 @@
+BV24BAR,BMW,M8,sport
+BH77BGD,Aston Martin,DBS,supersport
+CJ10PNB,Mercedes-Benz,GT 63,sedan
+IL43SRK,Dacia,Duster,suv
+B29STE,Mercedes-Benz,GLE,suv
+CT45FAR,Lamborghini,Huracan,supersport
+TR12UYH,Ford,Focus,hatchback
+AR39FCC,Renault,Talisman,sedan
+BH22BGD,Bentley,Continental,supersport
+BH30RAC,Suzuki,Vitara,suv
+BV33RET,Audi,A4,sedan
